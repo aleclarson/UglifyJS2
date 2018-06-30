@@ -27,7 +27,7 @@
     "source-map": "~0.6.1"
   },
   "devDependencies": {
-    "acorn": "~5.5.3",
+    "acorn": "~5.7.1",
     "semver": "~5.5.0"
   },
   "scripts": {
