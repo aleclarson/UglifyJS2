@@ -15,7 +15,8 @@
   "main": "tools/node.js",
   "files": [
     "lib",
-    "tools",
+    "tools/node.js",
+    "tools/exports.js",
     "LICENSE"
   ],
   "dependencies": {
